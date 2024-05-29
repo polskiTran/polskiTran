@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently a 3rd year CS major at UC
-- 🌱 I’m currently taking CS4071 - Algorithm Design, EECE3093C - Software Eng, CS4092 - Database Design
-- 👯 I’m looking to collaborate on Python Proj, ML, DL.
-- 🤔 I’m looking for help with embeded system for retro handheld
+- 🔭 Computer Science @ University of Cincinnati '26
+- 🌱 I’m currently a SWE @ Medpace
+- 👯 I’m looking to collaborate on Python Proj, ML, DL, IOS app.
+- 🤔 I’m looking for help with ML, DL and SwiftUI
 - 📫 How to reach me: tran2tp@mail.uc.edu
