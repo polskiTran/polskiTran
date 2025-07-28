@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, I'm Tiep!</h1>
+<h3 align="center">A UC Computer Science student</h3>
+<br/>
 
 <!--
 **polskiXO/polskiXO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
