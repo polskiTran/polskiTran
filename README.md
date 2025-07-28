@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 -->
 - 🔭 Computer Science @ University of Cincinnati '26
 - 🌱 Digital Garden: [tieptran.com](https://tieptran.com/)
-- 👯 I’m looking to collaborate on AI Agent proj.
-- Latest Project: [Sumitup](https://github.com/polskiTran/EEP25-Sumitup) - Tech Newsletter Digital Garden with [Agent Assistant](https://github.com/polskiTran/Sumitup-website-chatbot)
+- 🤔 I’m learning about AI Agent proj.
+- 🧪 Latest Projects: [Sumitup](https://github.com/polskiTran/EEP25-Sumitup) - Tech Newsletter Digital Garden with [Agent Assistant](https://github.com/polskiTran/Sumitup-website-chatbot)
 - 📫 How to reach me: tran2tp@mail.uc.edu
