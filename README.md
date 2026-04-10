@@ -44,7 +44,7 @@ D. Rice                                                                     ''. 
 ```
 - 🔭 Computer Science @ University of Cincinnati '26
 - 🌱 Digital Garden: [tieptran.com](https://tieptran.com/)
-- 🤔 I’m learning about AI Agent, VLM, vLLM Inference Engine, AI Infrastrcuture hosting.
-- 🎓 Capstone (WIP): [Matcha Bank Reconciliation System](https://github.com/chaung844/senior_design)
+- 🤔 I’m learning about AI Agent, AI Agent harness, Vision Language Models, Recursive Language Models, JEPA
+- 🎓 Capstone: [Matcha Bank Reconciliation System](https://github.com/chaung844/senior_design)
 - 🧪 Latest Projects: [Sumitup](https://github.com/polskiTran/EEP25-Sumitup) - Tech Newsletter Digital Garden with [Agent Assistant](https://github.com/polskiTran/EEP25-Sumitup-Agent-Assistant) 
 - 📫 How to reach me: tran2tp@mail.uc.edu // t.anhtiep114@gmail.com
