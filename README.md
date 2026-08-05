@@ -46,5 +46,5 @@ D. Rice                                                                     ''. 
 - 🌱 Digital Garden: [tieptran.com](https://tieptran.com/)
 - 🤔 I’m learning about Recursive Language Models and Harness Engineering
 - 🎓 Capstone: [Matcha Bank Reconciliation System](https://github.com/chaung844/senior_design)
-- 🧪 I'm building Braum - the modern RSS aggregator
+- 🧪 I'm building a modern RSS aggregator
 - 📫 How to reach me: tran2tp@mail.uc.edu // t.anhtiep114@gmail.com
