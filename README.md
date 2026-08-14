@@ -1,5 +1,4 @@
 <h1 align="center">Hey! 👋, I'm Tiep!</h1>
-<h3 align="center">A UC Computer Science student</h3>
 <br/>
 
 <!--
